@@ -1,0 +1,4 @@
+"0","taiwan_time = ymd_hms(""2019-04-12 12:55:30"",tz=""Asia/Taipei"")"
+"2","Error in ymd_hms(""2019-04-12 12:55:30"", tz = ""Asia/Taipei"") : 
+  沒有這個函數 ""ymd_hms""
+"
