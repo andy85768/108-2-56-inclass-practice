@@ -1,6 +1,1 @@
 "0","knitr::opts_chunk$set(echo = TRUE)"
-"2","Warning message:
-"
-"2","In parse(text = extractingCode) :"
-"2"," 在剖析器的第 1 列中有無效的多位元組字元
-"
