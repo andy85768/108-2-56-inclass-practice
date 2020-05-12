@@ -1,0 +1,8 @@
+"0","month(ymd(badEmployers$dt)) -> mon"
+"0","table(mon) == max(table(mon)) -> mon_pick"
+"0","names(table(mon)[mon_pick]) -> popularSentenceMonth "
+"0"," popularSentenceMonth"
+"1","[1]"
+"1"," ""11"""
+"1","
+"

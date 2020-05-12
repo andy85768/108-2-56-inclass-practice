@@ -1,0 +1,4 @@
+"0","print(example[c(""name"",""birthday"")])"
+"2","Error in example[c(""name"", ""birthday"")] : 
+  'closure' 類型的物件無法具有子集合
+"
