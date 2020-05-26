@@ -1,3 +1,4 @@
+"0","library(stringr)"
 "0","char2 <- c(""蔡英文"",""習近平"",""Donald Trump"",""蔡頭"") "
 "0","factor2 <- factor(char2)"
 "0","levels(factor2)"

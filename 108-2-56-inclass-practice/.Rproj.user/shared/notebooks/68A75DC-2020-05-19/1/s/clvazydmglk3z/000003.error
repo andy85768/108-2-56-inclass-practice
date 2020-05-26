@@ -1,0 +1,1 @@
+{"frames":[{"character_number":0,"end_character_number":0,"end_line_number":0,"file":"","func":"forcats::fct_c(factor1, factor2)","line_number":0},{"character_number":0,"end_character_number":0,"end_line_number":0,"file":"","func":"rlang::list2(...)","line_number":0}],"message":"Error in rlang::list2(...) : 找不到物件 'factor1'\n"}
