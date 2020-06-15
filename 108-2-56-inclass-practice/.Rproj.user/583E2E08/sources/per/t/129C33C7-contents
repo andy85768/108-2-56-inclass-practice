@@ -143,7 +143,7 @@ data228有四個元素：
   
   * 年：由檔號取出的民國年份（class integer）
   
-```{r ans21}
+ ```{r ans21}
 levels(data228) <- c(levels(data228),"全宗名編號","年")
 data228[["全宗名編號"]] <- factor(str_sub(data228$檔號,1,11))
 data228[["年"]] <- as.integer(str_sub(data228$檔號,15,16))
