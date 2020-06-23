@@ -1,0 +1,13 @@
+"0","surface_cube <- function(long,wide,high){"
+"0","  (long*wide+wide*high+high*long)*2 ->surface_A"
+"0","  return(surface_A)"
+"0","}"
+"0","surface_cube"
+"1","function(long,wide,high){
+"
+"1","  (long*wide+wide*high+high*long)*2 ->surface_A
+"
+"1","  return(surface_A)
+"
+"1","}
+"

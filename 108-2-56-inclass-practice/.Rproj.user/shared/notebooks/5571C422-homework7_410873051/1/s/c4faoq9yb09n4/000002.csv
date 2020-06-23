@@ -1,0 +1,31 @@
+"0","odd_or_even <- function(ID){"
+"0","  str_sub(ID,10,10)->ID_pick"
+"0","  as.numeric(ID_pick)->ID_pick"
+"0","if(as.logical(ID_pick %% 2 ==0 )){"
+"0","  `1st_odd_or_even`<-0"
+"0","}else{"
+"0"," `1st_odd_or_even`<-1"
+"0"," }"
+"0"," return(`1st_odd_or_even`)"
+"0","}"
+"0","odd_or_even"
+"1","function(ID){
+"
+"1","  str_sub(ID,10,10)->ID_pick
+"
+"1","  as.numeric(ID_pick)->ID_pick
+"
+"1","if(as.logical(ID_pick %% 2 ==0 )){
+"
+"1","  `1st_odd_or_even`<-0
+"
+"1","}else{
+"
+"1"," `1st_odd_or_even`<-1
+"
+"1"," }
+"
+"1"," return(`1st_odd_or_even`)
+"
+"1","}
+"
