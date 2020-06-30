@@ -1,14 +1,5 @@
 "0","n<- 540"
-"2","Warning messages:
-"
-"2","1: "
-"2","In as.POSIXlt.Date(x) :"
-"2"," 強制變更過程中產生了 NA
-"
-"2","2: "
-"2","In as.POSIXlt.Date(x) :"
-"2"," 強制變更過程中產生了 NA
-"
+"0",""
 "0","conditionExpression_outcome="
 "0","  ifelse(n %% 2==0, ""even"", ""odd"") "
 "0",""

@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1593443743881.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "8D7EB51F",
+    "lastKnownWriteTime" : 31525549581926492,
+    "last_content_update" : 1593443743881,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "95DD8300",
+        "caption" : "ntpc_building_info",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=ntpc_building_info&cache_key=95DD8300",
+        "displayedObservations" : 30,
+        "environment" : "",
+        "expression" : "ntpc_building_info",
+        "object" : "ntpc_building_info",
+        "preview" : 0,
+        "totalObservations" : 30,
+        "variables" : 4
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

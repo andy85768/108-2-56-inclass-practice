@@ -1,0 +1,1 @@
+{"frames":[{"character_number":0,"end_character_number":0,"end_line_number":0,"file":"","func":"key_word %in% ntpc_building_info$name","line_number":0}],"message":"Error in key_word %in% ntpc_building_info$name : 找不到物件 'key_word'\n"}

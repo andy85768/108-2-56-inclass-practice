@@ -1,25 +1,25 @@
 {
     "collab_server" : "",
     "contents" : "",
-    "created" : 1592221263549.000,
+    "created" : 1593439383681.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "3016672296",
-    "id" : "3492798E",
-    "lastKnownWriteTime" : 1592580639,
-    "last_content_update" : 1592580639907,
-    "path" : "C:/Users/AndyChou/Downloads/homework7_410873051.Rmd",
+    "hash" : "0",
+    "id" : "43551652",
+    "lastKnownWriteTime" : 1593446190,
+    "last_content_update" : 1593446190894,
+    "path" : "C:/Users/AndyChou/Downloads/homework8_410873051.Rmd",
     "project_path" : null,
     "properties" : {
-        "cursorPosition" : "318,82",
+        "cursorPosition" : "110,0",
         "last_setup_crc32" : "",
-        "scrollLine" : "300"
+        "scrollLine" : "0"
     },
     "read_only" : false,
     "read_only_alternatives" : [
     ],
-    "relative_order" : 2,
+    "relative_order" : 3,
     "source_on_save" : false,
     "source_window" : "",
     "type" : "r_markdown"

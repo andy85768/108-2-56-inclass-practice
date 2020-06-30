@@ -1,0 +1,25 @@
+"0","search_engine <- function(key_word){"
+"0"," ifelse(str_detect(ntpc_building_info$name,key_word),""Yes"",""No"")->key_check"
+"0","  switch(key_check,"
+"0","         ""Yes""={str_detect(ntpc_building_info$name,key_word)->key_search"
+"0","             ntpc_building_info[key_search,]},"
+"0","         ""No""={warning(""內容為\""No Found\"""")},"
+"0","         warning(""內容為\""No Found\""""))"
+"0","}"
+"0"," search_engine"
+"1","function(key_word){
+"
+"1"," ifelse(str_detect(ntpc_building_info$name,key_word),""Yes"",""No"")->key_check
+"
+"1","  switch(key_check,
+"
+"1","         ""Yes""={str_detect(ntpc_building_info$name,key_word)->key_search
+"
+"1","             ntpc_building_info[key_search,]},
+"
+"1","         ""No""={warning(""內容為\""No Found\"""")},
+"
+"1","         warning(""內容為\""No Found\""""))
+"
+"1","}
+"
